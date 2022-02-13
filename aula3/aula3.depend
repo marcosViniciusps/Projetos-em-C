@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1439513506 source:g:\marcos\aula3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1442694696 source:f:\marcos\aula3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
